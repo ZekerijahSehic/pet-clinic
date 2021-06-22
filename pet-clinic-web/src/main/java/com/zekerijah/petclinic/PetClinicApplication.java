@@ -1,7 +1,8 @@
-package com.zekerijah.petclinic.model;
+package com.zekerijah.petclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+
 
 @SpringBootApplication
 public class PetClinicApplication {
