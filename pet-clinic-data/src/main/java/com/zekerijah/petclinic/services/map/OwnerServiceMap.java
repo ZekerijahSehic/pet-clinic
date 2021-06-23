@@ -5,7 +5,7 @@ import com.zekerijah.petclinic.services.OwnerService;
 
 import java.util.Set;
 
-public class OwnerServiceMap extends  AbstractMapService<Owner, Long> implements OwnerService {
+public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements OwnerService {
     @Override
     public Set<Owner> findAll() {
         return super.findAll();
